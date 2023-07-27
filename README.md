@@ -1,5 +1,5 @@
 # NC Edu Project
-
+A backend for a tool allowing to build network topologies together with other users and then simulate trafficing in them (yep, pretty much a Cisco Packet Tracer with a collaboration aspect).
 
 
 
